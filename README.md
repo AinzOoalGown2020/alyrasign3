@@ -2,10 +2,6 @@
 
 Getting up and running is as easy as 1-2-3!
 
-
-# Navigate to project directory
-cd solana-web3-template
-
 # Install dependencies
 npm/yarn/pnpm/bun install
 
