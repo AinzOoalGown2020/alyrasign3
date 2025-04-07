@@ -14,4 +14,4 @@ npm/yarn/pnpm/bun install
 
 ```
 
-Now, open your browser and navigate to [http://localhost:3000](http://localhost:3000) 
+Now, open your browser and navigate to http://localhost:3000
